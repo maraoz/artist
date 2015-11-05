@@ -1,0 +1,11 @@
+{
+  "name": "artist",
+  "version": "1.0.0",
+  "description": "An evolutionary artist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Araoz <manuelaraoz@gmail.com> (https://twitter.com/maraoz)",
+  "license": "MIT"
+}
